@@ -1,2 +1,3 @@
 # Coursera_Capstone
-# Project Notebook Link-https://github.com/AnirudhTantry/Coursera_Capstone/blob/master/DataScienceCapstone.ipynb
+# Project Notebook-https://github.com/AnirudhTantry/Coursera_Capstone/blob/master/DataScienceCapstone.ipynb
+# Source dataset-https://github.com/AnirudhTantry/Coursera_Capstone/blob/master/Bangalore_neighbourhoods.csv
